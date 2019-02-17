@@ -1,0 +1,4 @@
+Application name 	hermesto
+API key 	16fc574b3629d2c6fdf719c1df8a66ca
+Shared secret 	e78e8fcc5db17910c70c589f1f552297
+Registered to 	h3rm3570
